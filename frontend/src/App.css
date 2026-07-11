@@ -95,6 +95,7 @@ body {
   background: rgba(8, 5, 2, 0.88);
   border-bottom: 1px solid var(--border);
   backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
   display: flex;
   align-items: center;
   justify-content: space-between;
